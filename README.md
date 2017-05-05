@@ -1,0 +1,2 @@
+# projetoAinet
+tentativa criaçao repositorio
